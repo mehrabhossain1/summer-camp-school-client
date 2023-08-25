@@ -1,0 +1,46 @@
+[
+  {
+    "id": 101,
+    "instructorId": 1,
+    "title": "Introduction to Watercolor",
+    "description": "Learn the basics of watercolor painting, from color mixing to brush techniques. Suitable for beginners.",
+    "schedule": "Mondays & Wednesdays, 10:00 AM - 12:00 PM",
+    "image": "watercolor-intro.jpg",
+    "instructorName": "Anna Smith",
+    "availableSeats": 15,
+    "price": 150
+  },
+  {
+    "id": 102,
+    "instructorId": 1,
+    "title": "Advanced Watercolor Landscapes",
+    "description": "Take your watercolor skills to the next level by creating stunning landscapes. Prior watercolor experience required.",
+    "schedule": "Tuesdays & Thursdays, 2:00 PM - 4:00 PM",
+    "image": "watercolor-advanced.jpg",
+    "instructorName": "Anna Smith",
+    "availableSeats": 10,
+    "price": 180
+  },
+  {
+    "id": 201,
+    "instructorId": 2,
+    "title": "Sketching Fundamentals",
+    "description": "Master the art of sketching! This class covers basic shapes, proportions, and sketching from observation.",
+    "schedule": "Fridays, 9:00 AM - 11:00 AM",
+    "image": "sketching-fundamentals.jpg",
+    "instructorName": "Michael Johnson",
+    "availableSeats": 20,
+    "price": 120
+  },
+  {
+    "id": 202,
+    "instructorId": 2,
+    "title": "Advanced Shading Techniques",
+    "description": "Learn how to add depth and realism to your drawings through shading, hatching, and cross-hatching.",
+    "schedule": "Wednesdays, 1:00 PM - 3:00 PM",
+    "image": "shading-advanced.jpg",
+    "instructorName": "Michael Johnson",
+    "availableSeats": 12,
+    "price": 160
+  }
+]

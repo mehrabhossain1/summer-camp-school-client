@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Anna Smith",
+    "expertise": "Watercolor",
+    "bio": "Anna is an experienced watercolor artist with a passion for teaching and helping students discover the beauty of this medium.",
+    "image": "anna-smith.jpg",
+    "email": "anna@example.com",
+    "classesTaken": 2,
+    "classes": ["Introduction to Watercolor", "Advanced Watercolor Landscapes"]
+  },
+  {
+    "id": 2,
+    "name": "Michael Johnson",
+    "expertise": "Sketching and Shading",
+    "bio": "Michael specializes in teaching sketching techniques and how to add depth and realism to drawings through shading and textures.",
+    "image": "michael-johnson.jpg",
+    "email": "michael@example.com",
+    "classesTaken": 2,
+    "classes": ["Sketching Fundamentals", "Advanced Shading Techniques"]
+  }
+]
