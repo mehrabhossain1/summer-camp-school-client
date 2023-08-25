@@ -7,6 +7,7 @@ const PopularInstructorsCard = ({ PopularInstructors }) => {
       <div className='card-body'>
         <h2 className='card-title'>{PopularInstructors.name}</h2>
         <p>Expert In: {PopularInstructors.expertise}</p>
+        <p>{PopularInstructors.bio}</p>
       </div>
     </div>
   );
