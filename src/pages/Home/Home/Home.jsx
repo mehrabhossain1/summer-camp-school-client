@@ -1,4 +1,5 @@
 import Banner from "../Banner/Banner";
+import OurPrograms from "../OurPrograms/OurPrograms";
 import PopularClasses from "../PopularClasses/PopularClasses";
 import PopularInstructors from "../PopularInstructors/PopularInstructors";
 
@@ -9,10 +10,7 @@ const Home = () => {
       <Banner />
       <PopularClasses />
       <PopularInstructors />
-      <div>
-        **Extra Section -** Add one relevant sections. Make it attractive
-        :heart_eyes:. Try to use animation effects.
-      </div>
+      <OurPrograms />
     </div>
   );
 };
