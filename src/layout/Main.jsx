@@ -4,7 +4,8 @@ import Footer from "../components/Footer/Footer";
 
 const Main = () => {
   const location = useLocation();
-  const hoHeaderFooter = location.pathname.includes("login");
+  const hoHeaderFooter =
+    location.pathname.includes("login") || location.pathname.includes("signup");
 
   return (
     <div>
